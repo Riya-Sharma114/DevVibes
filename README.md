@@ -58,7 +58,7 @@ DevVibes offers a customizable, responsive portfolio layout where developers can
 > Below are screenshots of each major section of the DevVibes portfolio website:
 
 ### 🏠 Home
-![Home Page](![image](https://github.com/user-attachments/assets/1d21ed72-2130-42a7-8a13-e9396ab07d1b))
+![Home Page](![image](https://github.com/user-attachments/assets/1d21ed72-2130-42a7-8a13-e9396ab07d1b)
 
 ### 👩‍💼 About
 ![About Section]![image](https://github.com/user-attachments/assets/6c47b3f4-9c7b-4c72-bf2d-638c9f751c7c)
