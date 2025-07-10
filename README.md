@@ -53,8 +53,6 @@ DevVibes offers a customizable, responsive portfolio layout where developers can
 
 ## 📸 Working Model Screenshots
 
-## 📸 Working Model Screenshots
-
 > Below are screenshots of each major section of the DevVibes portfolio website:
 
 ### 🏠 Home
