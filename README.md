@@ -76,5 +76,5 @@ DevVibes offers a customizable, responsive portfolio layout where developers can
 
 
 ## 🔗 Live Demo  
-🌐 [Click here to view the live site](LINK)
+🌐 [Click here to view the live site](http://devvibes.s3-website.eu-north-1.amazonaws.com/)
 Built with ❤️ by Riya Sharma
